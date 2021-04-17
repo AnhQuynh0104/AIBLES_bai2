@@ -10,7 +10,7 @@ int main()
 		tich*=arr[i];
 	}
 	for(int i=1;i<=10;i++){
-		res[i]=tich/i;
+		kq[i]=tich/i;
 		cout<<kq[i]<<",";
 	}
 }
