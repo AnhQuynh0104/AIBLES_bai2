@@ -1,0 +1,8 @@
+1. Sử dụng github chúng ta có thể code 1 project trên nhiều máy được.
+2. Cách để trên Github cập nhật được những thay đổi vừa commit trên máy tính của mình:
+- B1: git add.
+- B2: git commit -m "Git changed"
+- B3: git push -u origin master.
+Có thể dùng thêm git status để xem trạng thái file.
+3. Lấy tất cả những thay đổi mới nhật từ Github về máy mình: 
+git pull origin master
