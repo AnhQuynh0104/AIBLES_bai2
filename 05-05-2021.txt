@@ -1,0 +1,33 @@
+Tóm tắt OOP theo 5W1H
+
+What
+- OOP (viết tắt của Object Oriented Programming) – lập trình hướng đối tượng là một phương pháp lập trình dựa trên khái niệm về lớp và đối tượng. OOP tập trung vào các đối tượng thao tác hơn là logic để thao tác chúng.
+- Đối tượng (Object) và Lớp (Class) trong OOP:
+	+ Đối tượng (Object): Đối tượng trong OOP bao gồm 2 thành phần chính:
+		. Thuộc tính (Attribute): là những thông tin, đặc điểm của đối tượng
+		. Phương thức (Method): là những hành vi mà đối tượng có thể thực hiện.
+	+ Lớp (Class): Lớp là sự trừu tượng hóa của đối tượng. Những đối tượng có những đặc tính tương tự nhau sẽ được tập hợp thành một lớp. Lớp cũng sẽ bao gồm 2 thông tin là thuộc tính và phương thức.
+- 4 đặc tính cơ bản của OOP:
+	+ Tính đóng gói.
+	+ Tính kế thừa.
+	+ Tính đa hình.
+	+ Tính trừu tượng.
+
+Where
+- Có nhiều ngôn ngữ lập trình cho phép viết chương trình máy tính trong OOP như là C#, C++, Java, PHP...
+
+When
+- Là phương pháp được sử dụng trong thiết kế website và phát triển phần mềm, dựa trên kiến trúc lớp và đối tượng để quản lý luồng và dữ liệu khi code.
+
+Who
+- Ai là người dùng OOP? - Lập trình viên.
+
+Why
+- Vì sao lập trình viên nên dùng OOP? 
+	+ Dễ dàng quản lý code.
+	+ Dễ mở rộng và maintain dự án.
+	+ Có tính bảo mật cao.
+	+ Có tính tái sử dụng.
+
+How
+- Tùy thuộc quá trình học tập làm việc.
