@@ -1,0 +1,4 @@
+Trong gitflow, khi một nhánh hotfix được tạo, sau khi fix xong lỗi thì nó sẽ được merge vào những nhánh nào và lý do vì sao lại cần merge vào những nhánh đó.
+
+Sau khi fix xong, nhánh hotfix sẽ được merge lần lượt vào master -> develop -> staging -> canary.
+Merge vào master đầu tiên để sửa lỗi trên đó luôn, rồi merge vào develop để cập nhật code mới, tiếp đến merge vào staging rồi tới canary để phát triển code tiếp.
