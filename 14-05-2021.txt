@@ -1,0 +1,34 @@
+Review về cơ sở dữ liệu:
+
+- Cơ sở dữ liệu tập hợp dữ liệu (văn bản, âm thanh, hình ảnh, số liệu, v.v.) của một hay nhiều lĩnh vực ứng dụng, được tổ chức theo một cấu trúc nhất định, sao cho các chương trình máy tính có thể khai thác, nhằm phục vụ nhiều người sử dụng.
+- Cơ sở dữ liệu thể hiện qua 3 mức:
+	• Mức khung hình
+	• Mức logic
+	• Mức vật lí
+-Lợi ích của csdl:
+	• Lưu trữ thông tin hệ thống
+	• Đảm bảo an toàn dữ liệu
+	• Phục vụ nhiều người cùng truy cập 1 thời điểm
+	• Tránh trùng lặp dữ liệu
+	• Lưu dữ liệu thành dạng table -> xem dễ hơn
+	• Tách biệt giữa các chương trình
+	• Có thuộc tính ACID
+- Về Transaction (giao dịch):
+	• Atomicity (tính nguyên tử): trong 1 giao dịch có nhiều thao tác như đọc và ghi. Tính chất này đảm bảo hoặc là cả 2 thao tác được thực hiện hoặc ko có gì cả.
+	• Consistency: tất cả các rang buộc toàn vẹn dữ liệu phải được thực thi
+	• Isolation: giữ giao dịch tách rời nhau cho đến khi chúng hoàn tất, đảm bảo các giao dịch ko bị trộn lẫn
+	• Durablility: đảm bảo 1 giao dịch thành công thì tất cả những thay đổi trong giao dịch phải được đồng bộ xuống database kể cả khi hệ thống lỗi.
+- Các loại liên kết trong csdl:
+	• 1-1
+	• 1-n
+	• n-n
+- Các khái niệm trong csdl:
+	• Bảng
+	• Bản ghi
+	• Khóa chính, khóa ngoại
+	• Thuộc tính, thuộc tính dẫn xuất
+	• Query
+
+
+
+	
